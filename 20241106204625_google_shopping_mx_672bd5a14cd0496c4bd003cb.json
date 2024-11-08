@@ -1,0 +1,199 @@
+{
+    "job_id": "672bd5a14cd0496c4bd003cb",
+    "status": "finished",
+    "free_credits": 1,
+    "paid_credits": 0,
+    "results": [
+        {
+            "query": {
+                "source": "google_shopping",
+                "country": "mx",
+                "topic": "product_and_offers",
+                "key": "term",
+                "value": "PlayStation 5 slim console",
+                "max_pages": 1,
+                "max_age": 1200,
+                "sort_by": "ranking_descending",
+                "condition": "any",
+                "shipping": "any"
+            },
+            "success": true,
+            "metadata": {
+                "from_cache": false,
+                "page_count_requested": 1,
+                "page_count_delivered": 1,
+                "page_count_from_cache": 0,
+                "page_count_live": 1,
+                "request_count": 4,
+                "updated_at": "2024-11-06T20:46:34Z"
+            },
+            "content": {
+                "id": "15721410464100700651",
+                "name": "Consola sony playstation 5 slim spiderman 2 1tb blanco",
+                "image_url": "https://lh3.googleusercontent.com/spp/AFLdkbH3Q5rhIQ9JZWb9Q4hosQN4sVbcfXuwwL1KqBFT6Uce1_zeg-Sh6skiarUkkzshIjqxJqijxiP4U7xtKt5IxlJfmrpghCpXTQh-WFveK4pMUkd_IRVMT014TcxcFcmiJdUhhvPcNPAGONLvz3DgWC6tTSx02_l7cGV6lzuLC3HfgKJnTeO8yIYFmJReclAWlwocx6DNFg=s512-rw-pd-pc0x00ffffff",
+                "description": null,
+                "feature_bullets": [],
+                "properties": [
+                    "Compatible con Blu-ray",
+                    "Admite 4K",
+                    "PlayStation Network/Plus",
+                    "Con control de movimiento"
+                ],
+                "url": "https://www.google.com.mx/shopping/product/15721410464100700651?hl=es&gl=mx&sfr=compass",
+                "review_count": 25,
+                "review_rating": 100,
+                "price": null,
+                "gtins": null,
+                "eans": null,
+                "brand_name": null,
+                "category_path": null,
+                "category_name": null,
+                "specifications": [
+                    {
+                        "label": "Tipo de Batería",
+                        "value": [
+                            "No contiene batería"
+                        ]
+                    },
+                    {
+                        "label": "Ancho del Producto Ensamblado",
+                        "value": [
+                            "21 cm"
+                        ]
+                    },
+                    {
+                        "label": "Longitud del Producto Ensamblado",
+                        "value": [
+                            "36 cm"
+                        ]
+                    },
+                    {
+                        "label": "Peso del Producto Ensamblado",
+                        "value": [
+                            "4 kg"
+                        ]
+                    },
+                    {
+                        "label": "País de Origen",
+                        "value": [
+                            "CN - China"
+                        ]
+                    },
+                    {
+                        "label": "Grupo de Edad",
+                        "value": [
+                            "Todas las Edades"
+                        ]
+                    },
+                    {
+                        "label": "Tipo de Videojuego",
+                        "value": [
+                            "Accesorio de Consola o Control"
+                        ]
+                    },
+                    {
+                        "label": "Altura del Producto Ensamblado",
+                        "value": [
+                            "8 cm"
+                        ]
+                    },
+                    {
+                        "label": "Gráficos",
+                        "value": [
+                            "4320 (8K)"
+                        ]
+                    },
+                    {
+                        "label": "Género del Videojuego",
+                        "value": [
+                            "Acción"
+                        ]
+                    },
+                    {
+                        "label": "Regulación Mexicana",
+                        "value": [
+                            "A (Todas las edades)"
+                        ]
+                    },
+                    {
+                        "label": "Plataforma de Videojuego",
+                        "value": [
+                            "PlayStation 5"
+                        ]
+                    },
+                    {
+                        "label": "Nombre del Modelo Comercial",
+                        "value": [
+                            "PLAY STATION 5 SLIM"
+                        ]
+                    },
+                    {
+                        "label": "Conexiones",
+                        "value": [
+                            "USB",
+                            "HDMI",
+                            "ETHERNET",
+                            "USB-C"
+                        ]
+                    }
+                ],
+                "offer_count": 2,
+                "offers_url": "https://www.google.com.mx/shopping/product/15721410464100700651/offers?hl=es&prds=sgro:oo&sfr=compass&gl=mx",
+                "offers": [
+                    {
+                        "id": null,
+                        "product_id": "15721410464100700651",
+                        "price": "0.0",
+                        "price_additional_info": [
+                            "+1231 MXN durante 12 meses"
+                        ],
+                        "price_with_shipping": "14769.0",
+                        "shipping_costs": null,
+                        "tax": null,
+                        "currency": "MXN",
+                        "condition_text": null,
+                        "condition_code": "new",
+                        "url": "https://www.walmart.com.mx/ip/playstation-5/consola-sony-playstation-5-slim-spiderman-2-1tb-blanco/00097117195730?srsltid=AfmBOopYuGEQ40irkwL9h65am4H_ZopH_Zd1IdDdJIdlMcBBew5HZInAj1I",
+                        "shop_name": "Walmart México",
+                        "shop_review_count": 0,
+                        "shop_review_rating": null,
+                        "shop_id": "priceapi-f9d66d32a55",
+                        "shop_sub_id": null,
+                        "shop_extended_source_id": "priceapi-f9d66d32a55",
+                        "shop_url": "www.walmart.com.mx",
+                        "shop_domain": "walmart.com.mx",
+                        "shop_matching_id": "walmart.com.mx",
+                        "page": 1,
+                        "position": 1
+                    },
+                    {
+                        "id": null,
+                        "product_id": "15721410464100700651",
+                        "price": "0.0",
+                        "price_additional_info": [
+                            "+1231 MXN durante 12 meses"
+                        ],
+                        "price_with_shipping": "14769.0",
+                        "shipping_costs": null,
+                        "tax": null,
+                        "currency": "MXN",
+                        "condition_text": null,
+                        "condition_code": "new",
+                        "url": "https://www.bodegaaurrera.com.mx/ip/playstation-5/consola-sony-playstation-5-slim-spiderman-2-1tb-blanco/00097117195730?srsltid=AfmBOopAFxW0wSDMlulnySN8ogKknevLMWBg8PloBqNKqeO4SFMnd_pz4Z0",
+                        "shop_name": "Bodega Aurrera México",
+                        "shop_review_count": 0,
+                        "shop_review_rating": null,
+                        "shop_id": "priceapi-7370a5c7516",
+                        "shop_sub_id": null,
+                        "shop_extended_source_id": "priceapi-7370a5c7516",
+                        "shop_url": "www.bodegaaurrera.com.mx",
+                        "shop_domain": "bodegaaurrera.com.mx",
+                        "shop_matching_id": "bodegaaurrera.com.mx",
+                        "page": 1,
+                        "position": 2
+                    }
+                ]
+            }
+        }
+    ]
+}

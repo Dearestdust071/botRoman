@@ -1,0 +1,119 @@
+{
+    "error": false,
+    "msg": [
+      {
+        "project_id": "f5a1b7c9-4c7b-48d5-9e90-6d53123f84bc",
+        "project_name": "Edificio Corporativo",
+        "client": {
+          "client_id": "85fd12f8-7890-45b8-8235-281e62e2f39b",
+          "client_name": "Constructora Alfa",
+          "contact_info": {
+            "email": "contacto@alfa.com",
+            "phone": "+123456789"
+          }
+        },
+        "budget": 1500000,
+        "deadline": "2024-12-31",
+        "status": "in_progress",
+        "tasks": [
+          {
+            "task_id": "b4e1b2f1-1b57-4b38-b31a-4f1d5f4df93b",
+            "task_name": "Excavación",
+            "assigned_team": {
+              "team_id": "team01",
+              "team_name": "Equipo de Terreno",
+              "team_members": [
+                {
+                  "member_id": "m01",
+                  "name": "Juan Herrera",
+                  "role": "Ingeniero de Terreno",
+                  "experience_years": 10
+                },
+                {
+                  "member_id": "m02",
+                  "name": "Lucía Martínez",
+                  "role": "Supervisor",
+                  "experience_years": 8
+                }
+              ]
+            },
+            "start_date": "2023-09-01",
+            "end_date": "2023-11-15",
+            "progress": 70,
+            "materials": [
+              {
+                "material_name": "Cemento",
+                "quantity": 200,
+                "unit": "toneladas",
+                "supplier": "Cementos del Sur",
+                "cost_per_unit": 100,
+                "total_cost": 20000
+              },
+              {
+                "material_name": "Acero",
+                "quantity": 50,
+                "unit": "toneladas",
+                "supplier": "Aceros Nacionales",
+                "cost_per_unit": 500,
+                "total_cost": 25000
+              }
+            ]
+          },
+          {
+            "task_id": "d6f8c5f2-47f1-4b6a-a432-3b8c2e5fda4a",
+            "task_name": "Fundación",
+            "assigned_team": {
+              "team_id": "team02",
+              "team_name": "Equipo de Estructuras",
+              "team_members": [
+                {
+                  "member_id": "m03",
+                  "name": "Carlos Pérez",
+                  "role": "Ingeniero Civil",
+                  "experience_years": 12
+                },
+                {
+                  "member_id": "m04",
+                  "name": "Ana Rodríguez",
+                  "role": "Jefe de Obra",
+                  "experience_years": 15
+                }
+              ]
+            },
+            "start_date": "2023-11-16",
+            "end_date": "2024-02-01",
+            "progress": 20,
+            "materials": [
+              {
+                "material_name": "Concreto",
+                "quantity": 500,
+                "unit": "metros cúbicos",
+                "supplier": "Concretos Rápidos",
+                "cost_per_unit": 120,
+                "total_cost": 60000
+              }
+            ]
+          }
+        ],
+        "delivery_method": "seguro"
+      },
+      {
+        "project_id": "a7b5d8c6-1243-42d9-8adf-6d2c546f8745",
+        "project_name": "Residencial Monteverde",
+        "client": {
+          "client_id": "67ac89f7-321b-478b-a914-84fdc9f41b5a",
+          "client_name": "Inmobiliaria Monteverde",
+          "contact_info": {
+            "email": "info@monteverde.com",
+            "phone": "+987654321"
+          }
+        },
+        "budget": 3500000,
+        "deadline": "2025-03-15",
+        "status": "planning",
+        "tasks": [],
+        "delivery_method": "lento"
+      }
+    ]
+  }
+  
